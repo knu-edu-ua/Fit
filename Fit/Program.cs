@@ -1,7 +1,13 @@
+using Fit.Utils;
+using Microsoft.AspNetCore.Mvc.ApplicationModels;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddRazorPages();
+builder.Services.AddRazorPages(options =>
+{
+    options.Conventions.Add(new PageRouteTransformerConvention(new UrlTransformer()));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
