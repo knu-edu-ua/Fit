@@ -1,0 +1,33 @@
+﻿// Domain
+fit.knu.edu.ua
+
+// Departments
+fit.knu.edu.ua/aknt
+fit.knu.edu.ua/ksm
+fit.knu.edu.ua/mpz
+fit.knu.edu.ua/psgo
+fit.knu.edu.ua/im
+fit.knu.edu.ua/math
+
+// Staff
+fit.knu.edu.ua/profile/{username}
+
+// Specialties
+fit.knu.edu.ua/vocational-education
+fit.knu.edu.ua/software-engineering
+fit.knu.edu.ua/computer-sciences
+fit.knu.edu.ua/computer-engineering
+fit.knu.edu.ua/automation-and-computer-integrated-technologies
+
+// Admission
+fit.knu.edu.ua/pricing
+fit.knu.edu.ua/dormitory
+
+// Other
+fit.knu.edu.ua/student-council
+fit.knu.edu.ua/academic-сouncil
+
+// Contacts
+fit.knu.edu.ua/contact
+fit.knu.edu.ua/contact/staff
+fit.knu.edu.ua/contact/student
